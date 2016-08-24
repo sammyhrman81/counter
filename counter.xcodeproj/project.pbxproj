@@ -286,6 +286,7 @@
 				2E2FB7E01D10792700298381 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
